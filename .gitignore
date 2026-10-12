@@ -1,0 +1,19 @@
+
+### `.gitignore`
+
+```gitignore
+*.class
+bin/
+out/
+target/
+
+.vscode/
+.idea/
+*.iml
+
+.classpath
+.project
+.settings/
+
+.DS_Store
+Thumbs.db
